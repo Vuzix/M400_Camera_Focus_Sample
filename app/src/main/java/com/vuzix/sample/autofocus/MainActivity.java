@@ -50,7 +50,7 @@ import java.io.IOException;
 /**
  * This sample app shows how to trigger the auto focus in Camera API 1 on the M400.
  *
- * We suggest auto focus be used in the continous focus mode so the Camera is able to maintain the
+ * We suggest auto focus be used in the continuous focus mode so the Camera is able to maintain the
  * focus properly. If the developer prefers to use the focus mode in which that camera just find the
  * focus once, you may call autofocus() to trigger the focus searching. You must trigger this
  * repeatedly if you need to find the focus again. So, this sample app also shows how to press
